@@ -1,0 +1,27 @@
+html {
+  background: url(bg.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+a, a:visited{
+  color:#111;
+}
+a:hover{
+  color:#111;
+
+}
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #000;
+  margin: 0 auto;
+  padding:1em;
+  letter-spacing: .1em;
+  max-width: 400px;
+}
