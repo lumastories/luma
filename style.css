@@ -4,6 +4,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  min-height:100%;
 }
 
 
@@ -24,4 +25,5 @@ body{
   padding:1em;
   letter-spacing: .1em;
   max-width: 400px;
+  min-height:100%;
 }
